@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=G%C3%B6rkem%20Efe%20Dersin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20%26%20Network%20Technician&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;ASP.NET+%7C+Laravel+%7C+Next.js+%7C+React;Systems+%26+Network+Technician+(L1%2FL2)+%F0%9F%9B%A1%EF%B8%8F;I+don't+just+build+it+%E2%80%94+I+keep+it+running+%E2%9A%A1;IT+Solutions+Executive+%40+CoBAC+WorkSpace" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;ASP.NET+%7C+Laravel+%7C+Next.js+%7C+React;Systems+%26+Network+Technician+(L1%2FL2)+%F0%9F%9B%A1%EF%B8%8F;I+don't+just+build+it+%E2%80%94+I+keep+it+running+%E2%9A%A1;IT+Solutions+Executive+%F0%9F%8F%A2" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://grkmefedrsn.com"><img src="https://img.shields.io/badge/Portfolio-grkmefedrsn.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -19,7 +19,7 @@
 
 Full-stack developer **and** systems/network specialist based in **Istanbul**. My core is backend development with **ASP.NET (C#)** and **PHP (Laravel)**, paired with modern frontends in **Next.js & React**. On the infrastructure side I manage **MikroTik & Ubiquiti UniFi** networks, **HP servers** (iLO, RAID, backups) and **QEMU** virtual machines, so I own projects end to end: I don't just build them, I keep them running.
 
-- 🏢 **IT Solutions Executive** @ CoBAC WorkSpace
+- 🏢 Currently working as an **IT Solutions Executive**
 - 🧠 SQL query optimization, OOP design, MS SQL · MySQL · SQLite
 - 🐍 Python for data analysis & automation · Bash scripts on Linux
 - 🤖 Currently leveling up in **Machine Learning**
