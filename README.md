@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=G%C3%B6rkem%20Efe%20Dersin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Network%20Technician%20%7C%20Web%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=G%C3%B6rkem%20Efe%20Dersin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20%26%20Network%20Technician&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;.NET+%7C+Laravel+%7C+React+%7C+Next.js;IT+Infrastructure+%26+Network+%F0%9F%9B%A1%EF%B8%8F;Learning+Machine+Learning+%F0%9F%A4%96;Istanbul%2C+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;ASP.NET+%7C+Laravel+%7C+Next.js+%7C+React;Systems+%26+Network+Technician+(L1%2FL2)+%F0%9F%9B%A1%EF%B8%8F;I+don't+just+build+it+%E2%80%94+I+keep+it+running+%E2%9A%A1;IT+Solutions+Executive+%40+CoBAC+WorkSpace" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://grkmefedrsn.com"><img src="https://img.shields.io/badge/Portfolio-grkmefedrsn.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/search/results/people/?keywords=G%C3%B6rkem%20Efe%20Dersin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/g%C3%B6rkem-efe-dersin-1907fbsk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dersingrkmefe2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=grkmefedrsn34&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 </p>
 
@@ -16,21 +17,17 @@
 
 ### 🇬🇧 About Me
 
-- 🛡️ **Systems & Network Technician** and **Web Developer** based in **Istanbul (Kadıköy)**
-- 💻 Building full-stack apps with **ASP.NET Core, Laravel, React, Next.js & Supabase**
-- 🌐 Hands-on with **IT infrastructure, monitoring & network** operations
-- 🔌 Shipping **WordPress plugins** and **Laravel packages** that solve real problems
-- 🤖 Currently learning **Machine Learning** with Python, NumPy & Pandas
-- 📫 Open to **remote** or **Istanbul** roles, reach me via [grkmefedrsn.com](https://grkmefedrsn.com)
+Full-stack developer **and** systems/network specialist based in **Istanbul**. My core is backend development with **ASP.NET (C#)** and **PHP (Laravel)**, paired with modern frontends in **Next.js & React**. On the infrastructure side I manage **MikroTik & Ubiquiti UniFi** networks, **HP servers** (iLO, RAID, backups) and **QEMU** virtual machines, so I own projects end to end: I don't just build them, I keep them running.
+
+- 🏢 **IT Solutions Executive** @ CoBAC WorkSpace
+- 🧠 SQL query optimization, OOP design, MS SQL · MySQL · SQLite
+- 🐍 Python for data analysis & automation · Bash scripts on Linux
+- 🤖 Currently leveling up in **Machine Learning**
+- 📫 Open to **remote** or **Istanbul** roles
 
 ### 🇹🇷 Hakkımda
 
-- 🛡️ İstanbul / Kadıköy'de **Sistem & Ağ Teknisyeni** ve **Web Geliştiriciyim**
-- 💻 **ASP.NET Core, Laravel, React, Next.js ve Supabase** ile full-stack uygulamalar geliştiriyorum
-- 🌐 **IT altyapısı, izleme ve ağ** operasyonlarında aktif deneyimim var
-- 🔌 Gerçek ihtiyaçlara çözüm üreten **WordPress eklentileri** ve **Laravel paketleri** yazıyorum
-- 🤖 Şu an Python ile **Makine Öğrenmesi** öğreniyorum
-- 📫 **Remote** veya **İstanbul** merkezli fırsatlara açığım
+İstanbul'da **full-stack yazılım geliştirici** ve **sistem/ağ altyapı uzmanıyım**. Ana uzmanlığım **ASP.NET (C#)** ve **PHP (Laravel)** ile backend geliştirme; yanında **Next.js ve React** ile modern frontend yapıyorum. **MikroTik, UniFi, HP sunucu, RAID, iLO ve QEMU** deneyimimle projeleri yalnızca geliştiren değil, **ayakta tutan** biriyim. L1/L2 destek ekipleri ile geliştiriciler arasında köprü kurar, kriz anında hızlı teşhis ve çözüm üretirim.
 
 ---
 
@@ -38,16 +35,52 @@
 
 <div align="center">
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,php,nodejs,express,python&theme=dark" />
+**Backend & Languages**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,php,python,js,ts,nodejs&theme=dark" />
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,redux,tailwind,bootstrap,materialui,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,redux,tailwind,bootstrap,html,css&theme=dark" />
 
-**Database · DevOps · Tools**<br/>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,mongodb,docker,linux,git,github,vercel,cloudflare,wordpress,selenium&theme=dark" />
+**Database · Cloud · DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,docker,aws,vercel,cloudflare,git,github&theme=dark" />
+
+**Systems & Network**<br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,windows,wordpress,selenium&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+<img src="https://img.shields.io/badge/HP_Server_·_iLO_·_RAID-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/VLAN_·_DHCP_·_Segmentation-4B5563?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
+
+---
+
+### 💼 Experience · Deneyim
+
+| Role | Company | Period |
+|:--|:--|:--|
+| 🛡️ **IT Solutions Executive** | CoBAC WorkSpace | Aug 2025 – Present |
+| 🧑‍💻 **IT Support Associate** | CoBAC WorkSpace | Dec 2024 – Aug 2025 |
+| ⚙️ **IT & Software Associate** | Nomu | Jun 2024 – Nov 2024 |
+| 🌐 **Web Programming & IT Intern** | ADN Bilişim | Jan 2024 – Jun 2024 |
+
+<details>
+<summary><b>🔍 Highlights · Öne çıkanlar</b></summary>
+
+- Developed & maintained PHP websites with cache optimization; managed **MS SQL, MySQL, SQLite** databases
+- Ran **Python** data analysis to support operational decisions
+- **QEMU** VM management and **VDK/VHD/VHDX** migration operations on Windows VMs
+- Built **Linux automation scripts** that sped up dev/test environment setup
+- End-to-end **MikroTik & UniFi** network management: cabling, VLANs, segmentation, DHCP/static IP
+- Single-handedly managed **HP servers**: iLO remote management, RAID, VM maintenance, scheduled backups
+- Prioritized daily **L1/L2** tickets against SLA targets to minimize downtime
+- Built web infrastructure with **React & PHP** in a startup; wrote SQL on a **.NET** backend
+- Worked on **4 live Laravel web projects**; server maintenance, SEO and performance for *kamupersoneli.com*
+
+</details>
 
 ---
 
@@ -55,12 +88,31 @@
 
 | Project | Description · Açıklama | Stack |
 |:--|:--|:--|
-| 🛡️ [**ITFlow**](https://github.com/grkmefedrsn34/itflow) | Enterprise IT operations & asset management (ITSM + ITAM) with a real-time dashboard · Kurumsal IT destek ve varlık yönetim platformu | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
-| 📡 [**NetPulse**](https://github.com/grkmefedrsn34/netpulse) | IT infrastructure monitor: device inventory, automatic ping health checks, live alerts & latency history · IT altyapı izleme paneli | ![.NET](https://img.shields.io/badge/-.NET_8-512BD4?logo=dotnet&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| 🌍 [**Laravelify Translator**](https://github.com/grkmefedrsn34/laravelify-translator) | Laravel package that scans Blade/PHP for translation keys and generates `lang/` files in one command · Tek komutla otomatik çeviri paketi | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP_8-777BB4?logo=php&logoColor=white) |
-| ⭐ [**ReviewGuard Pro**](https://github.com/grkmefedrsn34/ReviewGuard-Pro) | WordPress review plugin with smart negative-feedback filter, social-proof pop-ups & SEO rich snippets · Akıllı yorum & referans eklentisi | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| 🔗 [**Broken Link Detector Pro**](https://github.com/grkmefedrsn34/Advanced-Broken-Link-Detector-Fixer-Pro) | Background broken-link scanner with email reports and one-click fixes, ~80% faster via HEAD requests · Kırık link tarayıcı & düzeltici | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| 🙂 [**Yüz Tanıma**](https://github.com/grkmefedrsn34/Yuz-Tanima) | Face recognition application · Yüz tanıma uygulaması | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 🛡️ [**ITFlow**](https://github.com/grkmefedrsn34/itflow) · [🔴 Live](https://itflow-six.vercel.app) | ITSM + ITAM platform: real-time dashboard, role-based access (Admin/Technician/User) with Row Level Security, email notifications, auto-generated PDF handover documents | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| 📡 [**NetPulse**](https://github.com/grkmefedrsn34/netpulse) | IT infrastructure monitor: device inventory, automatic ping health checks, live alerts & latency history | ![.NET](https://img.shields.io/badge/-.NET_8-512BD4?logo=dotnet&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| 👥 [**Çalışan Takip**](https://github.com/grkmefedrsn34/Calisan-Takip-Uygulamasi) | Employee & task tracker built on **Clean Architecture** (Domain · Application · Persistence · UI) | ![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
+| 🌍 [**Laravelify Translator**](https://github.com/grkmefedrsn34/laravelify-translator) | Laravel package that scans Blade/PHP for translation keys and generates `lang/` files in one command | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP_8-777BB4?logo=php&logoColor=white) |
+| 📝 [**CMS**](https://github.com/grkmefedrsn34/cms) | Laravel content management system with MVC, Eloquent ORM & migrations | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) |
+| ⭐ [**ReviewGuard Pro**](https://github.com/grkmefedrsn34/ReviewGuard-Pro) | WordPress review plugin: smart negative-feedback filter, social-proof pop-ups, SEO rich snippets | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) |
+| 🔗 [**Broken Link Detector Pro**](https://github.com/grkmefedrsn34/Advanced-Broken-Link-Detector-Fixer-Pro) | Background broken-link scanner with email reports & one-click fixes, ~80% faster via HEAD requests | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) |
+| 🔐 [**Cyber Security Tools**](https://github.com/grkmefedrsn34/Siber-G-venlik-Uygulamalar--Python) | Security research, network analysis & threat detection apps | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 🤖 [**Selenium Automation**](https://github.com/grkmefedrsn34/selenium-app) | Web automation scripts for GitHub, Instagram & Twitter | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) |
+
+**🌐 Live sites I've built · Yayındaki sitelerim:**
+[favelacollection.com](https://favelacollection.com) (e-commerce) ·
+[turkcanegitim.com](https://turkcanegitim.com) (WordPress) ·
+[grkmefedrsn.com](https://grkmefedrsn.com) (portfolio) ·
+[contact.ondort.co](https://contact.ondort.co) · SEO for [ondort.co](https://ondort.co)
+
+---
+
+### 🎓 Education · Eğitim
+
+- 🎓 **Computer Programming (Associate)** · Trakya University · 2022 – 2024
+- 📚 **Management Information Systems** · Istanbul University AÖF · 2026 – ongoing
+- 📚 **Business Administration (English)** · Anadolu University · 2026 – ongoing
+
+🗣️ English (Business) · Turkish (Native)
 
 ---
 
@@ -81,7 +133,7 @@
 
 <div align="center">
 
-**“Kod yazmak bir araç; asıl iş problemi çözmek.”**
+**“Projeleri yalnızca geliştirmiyorum — ayakta tutuyorum.”**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
