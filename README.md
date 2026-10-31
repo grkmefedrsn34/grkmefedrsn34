@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=G%C3%B6rkem%20Efe%20Dersin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20%26%20Network%20Technician&descAlignY=60&descSize=18" width="100%"/>
+<img src="./profile/header.svg" width="100%" alt="Görkem Efe Dersin"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;ASP.NET+%7C+Laravel+%7C+Next.js+%7C+React;Systems+%26+Network+Technician+(L1%2FL2)+%F0%9F%9B%A1%EF%B8%8F;I+don't+just+build+it+%E2%80%94+I+keep+it+running+%E2%9A%A1;Freelance+Developer+%40+ON4+%F0%9F%8E%A8" alt="Typing SVG" /></a>
+<img src="./profile/typing.svg" alt="Full-Stack Developer · ASP.NET | Laravel | Next.js | React" />
 
 <p>
   <a href="https://grkmefedrsn.com"><img src="https://img.shields.io/badge/Portfolio-grkmefedrsn.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -136,6 +136,6 @@ Full-stack developer **and** systems/network specialist based in **Istanbul**. M
 
 **“Projeleri yalnızca geliştirmiyorum — ayakta tutuyorum.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="./profile/footer.svg" width="100%"/>
 
 </div>

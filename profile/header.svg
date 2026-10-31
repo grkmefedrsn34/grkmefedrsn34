@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/><stop offset=".5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0f2fe"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#e0f2fe"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .w1{animation:m 9s ease-in-out infinite alternate}
+    .w2{animation:m 12s ease-in-out infinite alternate-reverse}
+    @keyframes m{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+    .n{font:700 58px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:url(#t);animation:f 1.4s ease-out both}
+    .s{font:500 22px 'Fira Code',Consolas,monospace;fill:#cbd5e1;letter-spacing:1px;animation:f 1.4s .5s ease-out both}
+    @keyframes f{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+  </style>
+  <rect width="1200" height="260" fill="url(#g)"/>
+  <g class="w2" opacity=".35"><path fill="#38bdf8" d="M0 205 C150 175 300 235 450 205 S750 175 900 205 S1200 235 1400 205 V260 H0Z"/></g>
+  <g class="w1" opacity=".55"><path fill="#0ea5e9" d="M0 222 C200 200 350 250 550 222 S900 195 1100 222 S1300 245 1400 222 V260 H0Z"/></g>
+  <text class="n" x="600" y="112" text-anchor="middle">Görkem Efe Dersin</text>
+  <text class="s" x="600" y="158" text-anchor="middle">Software Developer  ·  Systems &amp; Network Technician</text>
+</svg>

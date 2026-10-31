@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2c5364"/><stop offset=".5" stop-color="#203a43"/><stop offset="1" stop-color="#0f2027"/></linearGradient></defs>
+  <style>.w{animation:m 10s ease-in-out infinite alternate}@keyframes m{from{transform:translateX(0)}to{transform:translateX(-200px)}}</style>
+  <g class="w"><path fill="url(#g)" d="M0 40 C150 10 300 70 450 40 S750 10 900 40 S1200 70 1400 40 V120 H0Z"/></g>
+</svg>
