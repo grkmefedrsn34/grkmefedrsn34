@@ -121,12 +121,12 @@ Full-stack developer **and** systems/network specialist based in **Istanbul**. M
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=grkmefedrsn34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grkmefedrsn34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="./profile/stats.svg" />
+<img height="170" src="./profile/top-langs.svg" />
 
 <img src="https://streak-stats.demolab.com?user=grkmefedrsn34&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=grkmefedrsn34&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="./profile/snake.svg" alt="contribution snake" />
 
 </div>
 
